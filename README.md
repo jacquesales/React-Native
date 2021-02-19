@@ -1,4 +1,4 @@
-![](https://imgur.com/pZ3rtvi.png)
+![](https://imgur.com/qzh9oxh.png)
 
 ## Mr. Chef
 Projeto mobile Recode Pro. 
