@@ -1,4 +1,15 @@
-# React-Native
+![](https://ibb.co/5cch54x)
 
-> Para visualizar o projeto acesse a branch master :)
-> Access the master branch to view the project
+## Mr. Chef
+Projeto mobile Recode Pro. 
+Um aplicativo que reúne pessoas e sua paixão em cozinhar.
+
+
+
+Development
+
+`$ git clone https://github.com/jacquesales/React-Native.git`
+
+`$ npm install`
+
+`$ expo start`
